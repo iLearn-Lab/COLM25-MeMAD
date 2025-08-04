@@ -1,0 +1,27 @@
+{
+    "ollama/mxbai-embed-large:latest": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    },
+    "ollama/qwen2.5:32b-instruct-q8_0": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    },
+    "ollama/qwen2.5:14b-instruct-fp16": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    },
+    "ollama/bge-m3:latest": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    },
+    "ollama/nomic-embed-text:latest": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "deepseek-chat": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    },
+    "deepseek-reasoner": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    }
+}

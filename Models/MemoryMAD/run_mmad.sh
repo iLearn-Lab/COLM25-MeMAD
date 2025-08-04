@@ -1,0 +1,4 @@
+python memory_mad.py --question_type MATH500 --verbose --if_use_memory --n_retrival 1 --memory_type PN --memory_content_type QSRE --log_name "MATH500"
+python memory_mad.py --question_type GPQA --verbose --if_use_memory --n_retrival 1 --memory_type PN --memory_content_type QSRE --log_name "GPQA"
+python memory_mad.py --question_type MMLUPro_Law --verbose --if_use_memory --n_retrival 1 --memory_type PN --memory_content_type QSRE --log_name "MMLUPro_Law"
+python memory_mad.py --question_type MMLUPro_Economics --verbose --if_use_memory --n_retrival 1 --memory_type PN --memory_content_type QSRE --log_name "MMLUPro_Economics"

@@ -1,0 +1,26 @@
+model_list:
+- model_name: mxbai-embed-large:latest
+  litellm_params:
+    model: ollama/mxbai-embed-large:latest
+    api_base: http://localhost:11434
+    api_key: RequiredButUnused
+- model_name: qwen2.5:32b-instruct-q8_0
+  litellm_params:
+    model: ollama/qwen2.5:32b-instruct-q8_0
+    api_base: http://localhost:11434
+    api_key: RequiredButUnused
+- model_name: qwen2.5:14b-instruct-fp16
+  litellm_params:
+    model: ollama/qwen2.5:14b-instruct-fp16
+    api_base: http://localhost:11434
+    api_key: RequiredButUnused
+- model_name: bge-m3:latest
+  litellm_params:
+    model: ollama/bge-m3:latest
+    api_base: http://localhost:11434
+    api_key: RequiredButUnused
+- model_name: nomic-embed-text:latest
+  litellm_params:
+    model: ollama/nomic-embed-text:latest
+    api_base: http://localhost:11434
+    api_key: RequiredButUnused

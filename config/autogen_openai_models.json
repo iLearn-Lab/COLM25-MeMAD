@@ -1,0 +1,17 @@
+{
+    "gpt-4o-mini": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    },
+    "gpt-4o-2024-08-06": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    },
+    "gpt-3.5-turbo-0125": {
+        "vision": false,
+        "function_calling": true,
+        "json_output": true
+    }
+}
